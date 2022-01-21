@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SceneMenu.unity
+    guid: fdb6e557c2e63e74886fe1d17e08454d
+  - enabled: 1
+    path: Assets/Scenes/StandartGame.unity
+    guid: 84729eeda748340d0955715b6a50b370
+  - enabled: 1
+    path: Assets/Scenes/ChronoGame.unity
+    guid: 0e4f9da8759983a4eb9276b38e42c11a
+  - enabled: 1
+    path: Assets/Scenes/SceneWin.unity
+    guid: 4781ce7acf23f0e45a787d29b0ff2638
+  - enabled: 1
+    path: Assets/Scenes/SceneLoser.unity
+    guid: 7df1898d036e1b44082f29b06e632924
+  m_configObjects: {}
