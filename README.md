@@ -1,7 +1,8 @@
 # UnityCarProject
 ---
 
-![Language](https://img.shields.io/badge/Language-C#-blue?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors/CreatibOfficiel/UnityCarProject?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/CreatibOfficiel/UnityCarProject?style=flat-square) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CreatibOfficiel/UnityCarProject?style=flat-square)
+
+![Language](https://img.shields.io/badge/Language-c%23-%23239120.svg?style=for-the-badge?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors/CreatibOfficiel/UnityCarProject?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/CreatibOfficiel/UnityCarProject?style=flat-square) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/CreatibOfficiel/UnityCarProject?style=flat-square)
 
 _[EN]_
 
